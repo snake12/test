@@ -1,0 +1,4 @@
+Test song
+
+lyrics1
+lyrics2
