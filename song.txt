@@ -2,3 +2,5 @@ Test song
 
 lyrics1
 lyrics2
+
+second half of a song
